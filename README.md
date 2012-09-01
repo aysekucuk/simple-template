@@ -1,5 +1,6 @@
-Unicrow
-=======
 
-Sample Django Template
-----------------------
+simple-template
+===============
+
+simple template
+
