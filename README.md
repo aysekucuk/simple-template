@@ -1,0 +1,4 @@
+simple-template
+===============
+
+simple template
